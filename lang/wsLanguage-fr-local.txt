@@ -1,0 +1,29 @@
+# langfile  from: 26-03-2012 15:47
+charset|ISO-8859-1|
+# local
+langlookup|Personal Weatherstation|Station Météo|
+
+# missing langlookup entries for lang=fr
+langlookup|evening|soir|
+langlookup|night|nuit|
+langlookup|morning|matin|
+langlookup|afternoon|après-midi|
+langlookup|MetNoForecast.|MetNoForecast.|
+langlookup|yourArea|Ville|
+langlookup|Period|Période|
+langlookup|Forecast|Prévision|
+langlookup|Precipitation|Précipitation|
+langlookup|from the|du|
+langlookup|LIGHTRAIN|LEGERE PLUIE|
+langlookup|CLOUD|COUVERT|
+langlookup|this|Ce|
+langlookup|LIGHTRAINSUN|SOLEIL ET PLUIE|
+langlookup|SUN|SOLEIL|
+langlookup|PARTLYCLOUD|PARTIELLEMENT NUAGEUX|
+langlookup|LIGHTCLOUD|PEU NUAGEUX|
+langlookup|SLEETSUN|SLEETSUN|
+langlookup|Graph|Graphique|
+langlookup|Forecast by 6 hour intervals|Prévisions intervalle de 6 heures|
+langlookup|48 hour details|détails 48 heures|
+# 21 entries found.
+# End of missing langlookup entries 

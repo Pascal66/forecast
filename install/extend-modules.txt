@@ -1,0 +1,5 @@
+[module]
+   [nom]MetNo[/nom]
+   [ModPath]metno[/ModPath]
+   [ModStart]admin/adm[/ModStart]
+[/module]

@@ -1,0 +1,39 @@
+# langfile  from: 2013-05-14
+charset|ISO-8859-1|
+# local
+langlookup|48 hour details|48 Stunden Details|
+langlookup|afternoon|Nachmittag|
+langlookup|Cloud cover|Wolkenbedeckung|
+langlookup|evening|Abend|
+langlookup|Forecast|Vorhersage|
+langlookup|Forecast by 6 hour intervals|Prognose um 6 Stunden-Intervallen|
+langlookup|from the|aus dem|
+langlookup|Graph|Grafik|
+langlookup|Period|Zeitraum|
+langlookup|Hour|Stunde|
+langlookup|Humidity|Luftfeuchtigkeit|
+langlookup|MetNoForecast.|Wettervorschau für |
+langlookup|morning|Morgen|
+langlookup|night|Nacht|
+langlookup|Precipitation|Niederschlag|
+langlookup|this|diese|
+langlookup|yourArea|yourArea|
+
+langlookup|CLOUD|Bewölkt|
+langlookup|FOG|Nebel|
+langlookup|LIGHTCLOUD|Leicht bewölkt|
+langlookup|LIGHTRAIN|Regen|
+langlookup|LIGHTRAINSUN|Nieseln|
+langlookup|LIGHTRAINTHUNDER|Leichte Regen mit Donner|
+langlookup|LIGHTRAINTHUNDERSUN|Leichte Regen mit Donner|
+langlookup|PARTLYCLOUD|Leicht bewölkt|
+langlookup|RAIN|Regen|
+langlookup|RAINTHUNDER|Regen mit Donner|
+langlookup|SLEET|Schneeregen|
+langlookup|SLEETSUN|Schneeregen, Klar|
+langlookup|SLEETSUNTHUNDER|Schneeregen mit Donner|
+langlookup|SNOW|Schnee|
+langlookup|SNOWSUN|Wenig Schnee|
+langlookup|SNOWSUNTHUNDER|Schnee mit Donner|
+langlookup|SNOWTHUNDER|Schnee mit Donner|
+langlookup|SUN|clear|

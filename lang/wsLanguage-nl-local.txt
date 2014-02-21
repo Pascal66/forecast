@@ -1,0 +1,34 @@
+# langfile  from: 2013-05-14
+charset|ISO-8859-1|
+# local
+langlookup|48 hour details|48 uur detail informatie |
+langlookup|Cloud cover|Wolken dek|
+langlookup|Forecast by 6 hour intervals|Verwachtingen per 6 uur|
+langlookup|from the|vanuit het|
+langlookup|Graph|Grafiek|
+langlookup|Period|Periode|
+langlookup|Hour|uur|
+langlookup|Humidity|Vochtigheid|
+langlookup|MetNoForecast.|De weersverwachtingen voor |
+langlookup|yourArea|yourArea|
+
+langlookup|CLOUD|bewolkt|
+langlookup|FOG|mist|
+langlookup|LIGHTCLOUD|licht bewolkt|
+langlookup|LIGHTRAIN|lichte regen|
+langlookup|LIGHTRAINSUN|(mot)regen|
+langlookup|LIGHTRAINTHUNDER|lichte regen met onweer|
+langlookup|LIGHTRAINTHUNDERSUN|lichte regen met onweer|
+langlookup|PARTLYCLOUD|gedeeltelijk bewolkt|
+langlookup|RAIN|regen(buien)|
+langlookup|RAINTHUNDER|regen en onweer|
+langlookup|SLEET|winterse omstandigheden|
+langlookup|SLEETSUN|winterse omstandigheden|
+langlookup|SLEETSUNTHUNDER|winterse omstandigheden met onweer|
+langlookup|SNOW|sneeuw|
+langlookup|SNOWSUN|sneeuw|
+langlookup|SNOWSUNTHUNDER|sneeuw en onweer|
+langlookup|SNOWTHUNDER|sneeuw en onweer|
+langlookup|SUN|helder|
+
+

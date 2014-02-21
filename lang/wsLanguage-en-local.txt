@@ -1,0 +1,39 @@
+# langfile  from: 2013-05-14
+charset|ISO-8859-1|
+# local
+langlookup|48 hour details|48 hour details|
+langlookup|afternoon|afternoon|
+langlookup|Cloud cover|Cloud cover|
+langlookup|evening|evening|
+langlookup|Forecast|Forecast|
+langlookup|Forecast by 6 hour intervals|Forecast by 6 hour intervals|
+langlookup|from the|from the|
+langlookup|Graph| Graph |
+langlookup|Period| Period |
+langlookup|Hour| Hour |
+langlookup|Humidity| Humidity |
+langlookup|MetNoForecast.|Weatherforecast for |
+langlookup|morning|morning|
+langlookup|night|night|
+langlookup|Precipitation|Precipitation|
+langlookup|this|this|
+langlookup|yourArea|yourArea|
+
+langlookup|CLOUD|Cloudy|
+langlookup|FOG|Fog|
+langlookup|LIGHTCLOUD|Lightly cloudy|
+langlookup|LIGHTRAIN|Some rain|
+langlookup|LIGHTRAINSUN|Drizzle|
+langlookup|LIGHTRAINTHUNDER|Light rain with thunder|
+langlookup|LIGHTRAINTHUNDERSUN|patchy light rain with thunder|
+langlookup|PARTLYCLOUD|Partly cloudy|
+langlookup|RAIN|Rain|
+langlookup|RAINTHUNDER|Rain and thunder|
+langlookup|SLEET|Sleet|
+langlookup|SLEETSUN|Sleet, clear|
+langlookup|SLEETSUNTHUNDER|Sleet and thunder|
+langlookup|SNOW|Snow|
+langlookup|SNOWSUN|Patchy snow|
+langlookup|SNOWSUNTHUNDER|Snow and thunder|
+langlookup|SNOWTHUNDER|Snow and thunder|
+langlookup|SUN|clear|
